@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Data + outputs (often large)
+data/
+outputs/maps/
+outputs/tables/
+outputs/plots/
+
+# OS
+.DS_Store
+Thumbs.db
