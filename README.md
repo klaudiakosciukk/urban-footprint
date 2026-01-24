@@ -9,7 +9,7 @@ Detect urban change around Warsaw, Kraków, and Wrocław using annual satellite 
    - pip install -r requirements.txt
 
 2) Run:
-   - python scripts/run_pipeline.py --all-cities --years 2018 2025
+   - python scripts/run_pipeline.py --krakow / warsaw / wroclaw --years 2018 2025 --buffer_km 20 --clusters 12
 
 ## Outputs
 - outputs/plots/
