@@ -6,9 +6,9 @@ __pycache__/
 
 # Data + outputs (often large)
 data/
-outputs/maps/
-outputs/tables/
-outputs/plots/
+#outputs/maps/
+#outputs/tables/
+#outputs/plots/
 
 # OS
 .DS_Store
